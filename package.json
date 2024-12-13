@@ -1,0 +1,8 @@
+{
+  "name": "DateTimeManager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/moonhr/DateTimeManager.git",
+  "author": "moonhr <moonhr153@gmail.com>",
+  "license": "MIT"
+}
